@@ -1,6 +1,6 @@
 # C and CPP Code Practice
 
-My Lesson:
+My Lessons:
 - [Common Lounge](https://github.com/jashezan/C-and-CPP-code-practice/blob/main/Lesson-Learned/C%2B%2B%20from%20commonlounge.md)
 - [Youtube Video](https://github.com/jashezan/C-and-CPP-code-practice/blob/main/Lesson-Learned/Video%20Resources.md)
 
